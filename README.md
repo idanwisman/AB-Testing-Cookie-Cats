@@ -1,5 +1,5 @@
-# AB-testing-Cats-And-Cookies
-AB testing project to check whether a new feature  is needed to the mobile game Cats and cookies. 
-This project contain one file which is the jupyter notebook where you can find the code.
+# AB-Testing-Cookie-Cats
+AB testing project to check whether a new feature is needed in the mobile game Cookie Cats. 
+This project contains a Jupyter Notebook file where you can find the code.
 
-I was checking wether the company lounch a new feature to the mobile game and checked the retantion rate before and after the change. I used the bootstrapping technique to measure if the change was succesful or not.
+I was checking whether the company should launch a new feature in the mobile game and checked the retention rate before and after the change. I used the bootstrapping technique to measure if the change was succesful or not.
